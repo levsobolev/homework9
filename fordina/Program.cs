@@ -43,7 +43,7 @@ namespace fordina
         }
         public static void Main(string[] args)
         {
-            Task();
+            Task(); 
         }
     }
 }
